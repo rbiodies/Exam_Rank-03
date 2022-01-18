@@ -1,5 +1,5 @@
 # ✅ Examrank-03
-### ***The aim of the projects:***
+### ***The aim of the projects is:***
 To write a program that will read an "operation file" and print the result in the terminal.
 ## Micro_paint
 ### ***Example operation file:***
