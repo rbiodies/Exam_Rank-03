@@ -1,14 +1,14 @@
 # ✅ Examrank-03
-### ***The aim of the projects is:***
+### The aim of the projects:
 To write a program that will read an "operation file" and print the result in the terminal.
 ## Micro_paint
-### ***Example operation file:***
+### Example operation file:
 ```
 10 10 _
 r 1.2 1.2 3.01 3.02 j
 R 5.2 5.2 7.01 7.02 j
 ```
-### ***Run:***
+### Run:
 ```
 %>gcc micro_paint.c
 %>./a.out <operation file>
@@ -24,13 +24,13 @@ ______jjjj
 ______jjjj
 ```
 ## Mini_paint
-### ***Example operation file:***
+### Example operation file:
 ```
 25 25 ,
 C 11.45 11.86 10.3 o
 c 11.45 11.86 10.3 $
 ```
-### ***Run:***
+### Run:
 ```
 %>gcc mini_paint.c
 %>./a.out <operation file>
