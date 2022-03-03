@@ -10,8 +10,8 @@ R 5.2 5.2 7.01 7.02 j
 ```
 ### Run:
 ```
-%>gcc micro_paint.c
-%>./a.out <operation file>
+%> gcc micro_paint.c
+%> ./a.out <operation file>
 __________
 __________
 __jjj_____
@@ -32,8 +32,8 @@ c 11.45 11.86 10.3 $
 ```
 ### Run:
 ```
-%>gcc mini_paint.c
-%>./a.out <operation file>
+%> gcc mini_paint.c
+%> ./a.out <operation file>
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,$$$$$$,,,,,,,,,,
